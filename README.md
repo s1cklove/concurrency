@@ -1,2 +1,3 @@
-# exe-s-DESIGN.md
-Design doc from my concurrency course project that I update for fun from time to time.
+# s1cklove/concurrency
+
+Any concurrency-related stuff, mostly taken from [R. Lipovsky](https://gitlab.com/Lipovsky/)'s course.
