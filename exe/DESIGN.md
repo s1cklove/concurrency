@@ -1,5 +1,7 @@
 # How to code in `exe`?
 
+(A design document for my concurrency project!)
+
 ## (Be) General
 
 I use C++20. As soon as C++26 will be supported well enough, I aim to switch to it (older versions problems are greatly shown in [visitor.hpp](source/exe/fiber/chan/detail/visitor.hpp)). No compiler-specific optimizations or attributes should be used. _Be general._
